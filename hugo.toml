@@ -1,0 +1,4 @@
+baseURL = 'https://www.ipv6textbook.com'
+languageCode = 'en-us'
+title = 'Book6: The Open Source IPv6 Textbook'
+theme = 'hugo-xterm'
