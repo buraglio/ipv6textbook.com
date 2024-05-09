@@ -1,5 +1,5 @@
 baseURL = 'https://www.ipv6textbook.com'
-
+#theme = "hermit-v2"
 defaultContentLanguageInSubdir = true
 
 # [outputs]
