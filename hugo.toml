@@ -1,4 +1,3 @@
-baseURL = 'https://www.ipv6textbook.com'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Book6: The Open Source IPv6 Textbook'
-theme = 'hugo-xterm'
+title = 'My New Hugo Site'
