@@ -10,10 +10,10 @@ defaultContentLanguageInSubdir = true
 #   taxonomy = ['html', 'rss']
 #   term = ['html', 'rss']
 
-[languages]
-  [languages.en]
-    title = 'The Open Source IPv6 Textbook'
-    weight = 1
+#[languages]
+#  [languages.en]
+#    title = 'The Open Source IPv6 Textbook'
+#    weight = 1
  
 languageCode = "en-us"
 
@@ -25,7 +25,7 @@ pygmentsUseClasses  = true
 
 rssLimit = 10
 
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+copyright = "This book is irrevocably open source. For text, we apply the Creative Commons Attribution 4.0 license, known as CC BY 4.0."
 enableEmoji = true
 
 #[services]
@@ -43,7 +43,7 @@ expiryDate = ["expiryDate"]
 
 
 [params.author]
-  name = "1BL4Z3R"
+  name = "Nick Buraglio"
   about = "about-hugo"
 
 [blackfriday]
@@ -116,5 +116,5 @@ expiryDate = ["expiryDate"]
 
   [[menu.main]]
     name = "About"
-    url = "about-hugo/"
+    url = "about/"
     weight = 20
